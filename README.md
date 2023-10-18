@@ -7,4 +7,4 @@
 • 📫 How to reach me: https://www.linkedin.com/in/estephanie-magalhães/
 
 <p align="center">
-<a href= "https://www.linkedin.com/in/estephanie-magalhães"><img src="Linkedin.png"/></a>
+<a width="50" href= "https://www.linkedin.com/in/estephanie-magalhães"><img src="Linkedin.png"/></a>
