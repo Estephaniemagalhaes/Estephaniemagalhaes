@@ -4,7 +4,7 @@
 </p>
 
 
-• 📫 How to reach me: https://www.linkedin.com/in/estephanie-magalhães/
 
 <p align="center">
+<p> How to reach me: 
 <a width="50" href= "https://www.linkedin.com/in/estephanie-magalhães"><img src="Linkedin.png"/></a>
