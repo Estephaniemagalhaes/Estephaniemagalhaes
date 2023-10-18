@@ -4,7 +4,6 @@
 </p>
 
 
-
+<p> How to reach me: </p>
 <p align="center">
-<p> How to reach me: 
-<a width="50" href= "https://www.linkedin.com/in/estephanie-magalhães"><img src="Linkedin.png"/></a>
+<a href= "https://www.linkedin.com/in/estephanie-magalhães"><img width="50" src="Linkedin.png"/></a>
